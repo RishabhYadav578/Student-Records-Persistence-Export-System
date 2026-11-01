@@ -1,0 +1,17 @@
+2026-11-01 14:04:34.183037 - Student s1 added
+2026-11-01 14:05:08.907202 - Student s2 added
+2026-11-01 14:05:33.026950 - Student s3 added
+2026-11-01 14:06:01.302379 - student record exported to CSV
+This line is writen use write().
+First line is written using writelines(),
+Second line is written using writelines().
+2026-11-01 21:29:45.430958 - Student s101 added
+2026-11-01 22:12:34.042802 - student record exported to CSV
+2026-11-01 22:12:36.925455 - student record exported to CSV
+2026-11-01 22:13:16.728859 - student record exported to CSV
+2026-11-01 22:13:17.370906 - student record exported to CSV
+2026-11-01 22:13:18.211756 - student record exported to CSV
+2026-11-01 22:13:43.394820 - student record exported to CSV
+2026-11-01 22:15:56.441239 - student record exported to CSV
+2026-11-01 22:16:32.132792 - Student s102 added
+2026-11-01 22:16:33.721740 - student record exported to CSV
